@@ -1,1 +1,1 @@
-# LISA-Local-Spatial-Indicators-of-Spatial-Association-
+# LISA-Local-Spatial-Indicators-of-Spatial-Association
